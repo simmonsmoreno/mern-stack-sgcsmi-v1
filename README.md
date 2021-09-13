@@ -1,7 +1,5 @@
 # Sistema de Gestão de Centros de Saúde Materno Infantil
 
-![logo-sgcsmi](https://user-images.githubusercontent.com/49438293/133143823-39280255-ba13-46b4-bb48-76e883aa139c.png)
-
 <h3> Descrição </h3>
 O principal problema que motiva a implementação do sistema descrito acima, é a inexistência duma maneira capaz de armazenar e processar todos os dados relativamente ao atendimento às crianças de uma forma eficiente e disponibilizar informações precisas e em tempo suficiente útil. Em alguns casos de centro de saúde existe um sistema instalado, mas que, maioria das vezes, quando os funcionários tentam utilizar não funciona, e quando funcionar consumia tempo excessivo para responder. Quando responde às vezes era incorreta. Por essa razão única saída que tiveram era por abandonar sua utilização. 
 
