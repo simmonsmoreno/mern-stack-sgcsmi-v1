@@ -29,29 +29,29 @@ Ainda pode-se verificar outros problemas existentes realçadas a seguir:
 <h3> Possíveis requisitos funcionais do sistema: </h3>
 Os requisitos do sistema referem a um conjunto de funções que os utilizadores do sistema querem ou precisam que o software ofereça, isto é, definem a funcionalidade desejada do software. Utilizamos a técnica de revisão da documentação, recorrendo aos cadernos de saúde integral das crianças disponibilizadas no centro de saúde. O termo função é usado no sentido de operação que pode ser efetuada pelo sistema, através do comando do utilizador, ou seja, pela ocorrência de eventos internos ou externos ao sistema, como se segue: 
 
--	Fazer login e logout. – Para ter acesso ao sistema o utilizador terá de fazer login, e para sair do sistema o utilizador terá de fazer logout. 
--	Manter dados das crianças. – O sistema deverá permitir registar, editar, e pesquisar crianças pelos rececionistas, enfermeiros ou médicos. 
--	Manter dados do país da criança. – O sistema deverá permitir registar, alterar e pesquisar mãe e pai das crianças pelos rececionistas, enfermeiros ou médicos. 
--	Manter dados da criança. -  Permitir que o diretor de um determinado centro regista, edita e pesquisa agendamentos de consultas médicas para referido centro. 
--	Manter dados das triagens. - O sistema deverá permitir registar, editar e pesquisar triagens por enfermeiros e médicos. 
--	Manter dados das consultas médicas. – O sistema deverá permitir registar, editar e pesquisar consultas médicas pelos médicos e paciente. 
--	Manter dados das consultas de avaliação. - O sistema deverá permitir registar, editar e pesquisar consultas de avaliação pelos enfermeiros e médicos e pacientes.  
--	Manter dados das vacinas. – O sistema deverá permitir registar, editar e pesquisar vacinas pelos enfermeiros médicos e pacientes.  
--	Manter dados dos serviços de marcações. – O sistema deverá permitir registar, editar, pesquisar e eliminar serviços de marcação das consultas de avaliação, consultas médicas e vacinas pelos médicos, enfermeiros, rececionistas e pacientes. 
--	Manter dados de exame. – O sistema deverá permitir registar, editar e pesquisar exame por médico e paciente.  
--	Manter dados de medicamentos. – O sistema deverá permitir registar, editar e pesquisar medicamento por médico e paciente. 
--	Manter dados de operação. - O sistema deverá permitir registar, editar e pesquisar operação por médico e paciente.  
--	Manter dados de internamento. - O sistema deverá permitir registar, editar e pesquisar internamento por médico e paciente.  
--	Notificação. - O sistema poderá permitir aos médicos, enfermeiros ou pacientes receberem alguma notificação (por exemplo alerta de consulta).  
--	Disponibilizar listas de espera. – O sistema deverá permitir disponibilizar aos pacientes a lista de espera para consultas ou vacinas num determinado dia. 
--	Disponibilizar o preçário. – O sistema deverá permitir disponibilizar aos pacientes a lista de preços para cada tipo de consultas médicas.  
--	Manter perfil do utilizador. – O sistema deverá permitir qualquer utilizador editar o password, o nome, o email ou a foto do seu perfil. 
--	Recuperação do password. – O sistema deverá permitir a recuperação de password a qualquer utilizador desde que seja registado com um email válido para receber confirmação.   
--	Marcar consulta médica online. – O sistema deverá permitir aos pacientes registar, editar, pesquisar e eliminar marcação de consultas médicas online.  
--	Disponibilizar gráfico de crescimento da criança. – O sistema deverá permitir qualquer utilizador consultar os gráficos de crescimento e desenvolvimento para verem estado do crescimento da criança (peso, altura, e perímetro cefálico).  
--	Estabelecer contato com os centros de saúde. – O sistema deverá permitir que os clientes contactem qualquer centro de saúde, selecionando o centro através de um dropdown list e informando o seu email, telefone e a mensagem que desejam enviar. 
--	Manter dados de fatura. – Permitirá registar, editar e pesquisar dados da fatura pelo rececionista, e permitir que a fatura seja imprimida quando registado. 
--	Manter dados do pagamento. - Permitirá registar, editar e pesquisar dados do pagamento das consultas médicas pelo rececionista, e permitir que o recibo seja imprimido quando registado o pagamento. 
--	Log do sistema. – O sistema registará todas as alterações que foram feitas no sistema e o administrador deverá ver essas informações quando necessário.  
--	Ver informações através de dashboard. – O sistema deverá permitir que os diretores dos centros nacionais, municipais e locais verem informações importantes e de alto nível através de um dashboard disponibilizado através de gráficos.  
--	Fazer backup e restauro dos dados. – O sistema deverá permitir que sejam feitos o backup e o restauro dos dados.  
+-	<b>Fazer login e logout:</b> Para ter acesso ao sistema o utilizador terá de fazer login, e para sair do sistema o utilizador terá de fazer logout. 
+-	<b>Manter dados das crianças:</b> O sistema deverá permitir registar, editar, e pesquisar crianças pelos rececionistas, enfermeiros ou médicos. 
+-	<b>Manter dados do país da criança:</b> O sistema deverá permitir registar, alterar e pesquisar mãe e pai das crianças pelos rececionistas, enfermeiros ou médicos. 
+-	<b>Manter dados da criança:</b> Permitir que o diretor de um determinado centro regista, edita e pesquisa agendamentos de consultas médicas para referido centro. 
+-	<b>Manter dados das triagens:</b> O sistema deverá permitir registar, editar e pesquisar triagens por enfermeiros e médicos. 
+-	<b>Manter dados das consultas médicas:</b> O sistema deverá permitir registar, editar e pesquisar consultas médicas pelos médicos e paciente. 
+-	<b>Manter dados das consultas de avaliação:</b> O sistema deverá permitir registar, editar e pesquisar consultas de avaliação pelos enfermeiros e médicos e pacientes.  
+-	<b>Manter dados das vacinas:</b> O sistema deverá permitir registar, editar e pesquisar vacinas pelos enfermeiros médicos e pacientes.  
+-	<b>Manter dados dos serviços de marcações:</b> O sistema deverá permitir registar, editar, pesquisar e eliminar serviços de marcação das consultas de avaliação, consultas médicas e vacinas pelos médicos, enfermeiros, rececionistas e pacientes. 
+-	<b>Manter dados de exame:</b> O sistema deverá permitir registar, editar e pesquisar exame por médico e paciente.  
+-	<b>Manter dados de medicamentos:</b> O sistema deverá permitir registar, editar e pesquisar medicamento por médico e paciente. 
+-	<b>Manter dados de operação:</b> O sistema deverá permitir registar, editar e pesquisar operação por médico e paciente.  
+-	<b>Manter dados de internamento:</b> O sistema deverá permitir registar, editar e pesquisar internamento por médico e paciente.  
+-	<b>Notificação:</b> O sistema poderá permitir aos médicos, enfermeiros ou pacientes receberem alguma notificação (por exemplo alerta de consulta).  
+-	<b>Disponibilizar listas de espera:</b> O sistema deverá permitir disponibilizar aos pacientes a lista de espera para consultas ou vacinas num determinado dia. 
+-	<b>Disponibilizar o preçário:</b> O sistema deverá permitir disponibilizar aos pacientes a lista de preços para cada tipo de consultas médicas.  
+-	<b>Manter perfil do utilizador:</b> O sistema deverá permitir qualquer utilizador editar o password, o nome, o email ou a foto do seu perfil. 
+-	<b>Recuperação do password:</b> O sistema deverá permitir a recuperação de password a qualquer utilizador desde que seja registado com um email válido para receber confirmação.   
+-	<b>Marcar consulta médica online:</b> O sistema deverá permitir aos pacientes registar, editar, pesquisar e eliminar marcação de consultas médicas online.  
+-	<b>Disponibilizar gráfico de crescimento da criança:</b> O sistema deverá permitir qualquer utilizador consultar os gráficos de crescimento e desenvolvimento para verem estado do crescimento da criança (peso, altura, e perímetro cefálico).  
+-	<b>Estabelecer contato com os centros de saúde:</b> O sistema deverá permitir que os clientes contactem qualquer centro de saúde, selecionando o centro através de um dropdown list e informando o seu email, telefone e a mensagem que desejam enviar. 
+-	<b>Manter dados de fatura:</b> Permitirá registar, editar e pesquisar dados da fatura pelo rececionista, e permitir que a fatura seja imprimida quando registado. 
+-	<b>Manter dados do pagamento:</b> Permitirá registar, editar e pesquisar dados do pagamento das consultas médicas pelo rececionista, e permitir que o recibo seja imprimido quando registado o pagamento. 
+-	<b>Log do sistema:</b> O sistema registará todas as alterações que foram feitas no sistema e o administrador deverá ver essas informações quando necessário.  
+-	<b>Ver informações através de dashboard:</b> O sistema deverá permitir que os diretores dos centros nacionais, municipais e locais verem informações importantes e de alto nível através de um dashboard disponibilizado através de gráficos.  
+-	<b>Fazer backup e restauro dos dados:</b> O sistema deverá permitir que sejam feitos o backup e o restauro dos dados.  
