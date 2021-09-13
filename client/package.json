@@ -1,0 +1,51 @@
+{
+    "name": "sgcsmi",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "age-by-birthdate": "^1.0.1",
+        "axios": "^0.18.0",
+        "classnames": "^2.2.6",
+        "get-complete-age": "^1.0.4",
+        "is-empty": "^1.2.0",
+        "jwt-decode": "^2.2.0",
+        "moment": "^2.26.0",
+        "prop-types": "^15.7.2",
+        "react": "^16.6.3",
+        "react-datepicker": "^3.0.0",
+        "react-dom": "^16.6.3",
+        "react-moment": "^0.9.7",
+        "react-radio-group": "^3.0.3",
+        "react-redux": "^5.1.1",
+        "react-router-dom": "^4.3.1",
+        "react-scripts": "2.1.1",
+        "react-select-datepicker": "^1.0.2",
+        "redux": "^4.0.1",
+        "redux-thunk": "^2.3.0",
+        "styled-components": "^5.1.1",
+        "timeago.js": "^4.0.2",
+        "typescript": "^3.9.7"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "proxy": "http://127.0.0.1:3333",
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}
