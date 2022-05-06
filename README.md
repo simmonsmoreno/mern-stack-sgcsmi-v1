@@ -31,7 +31,7 @@ Os requisitos do sistema referem a um conjunto de funções que os utilizadores 
 
 -	<b>Fazer login e logout:</b> Para ter acesso ao sistema o utilizador terá de fazer login, e para sair do sistema o utilizador terá de fazer logout. 
 -	<b>Manter dados das crianças:</b> O sistema deverá permitir registar, editar, e pesquisar crianças pelos rececionistas, enfermeiros ou médicos. 
--	<b>Manter dados do país da criança:</b> O sistema deverá permitir registar, alterar e pesquisar mãe e pai das crianças pelos rececionistas, enfermeiros ou médicos. 
+-	<b>Manter dados dos pais da criança:</b> O sistema deverá permitir registar, alterar e pesquisar mãe e pai das crianças pelos rececionistas, enfermeiros ou médicos. 
 -	<b>Manter dados da criança:</b> Permitir que o diretor de um determinado centro regista, edita e pesquisa agendamentos de consultas médicas para referido centro. 
 -	<b>Manter dados das triagens:</b> O sistema deverá permitir registar, editar e pesquisar triagens por enfermeiros e médicos. 
 -	<b>Manter dados das consultas médicas:</b> O sistema deverá permitir registar, editar e pesquisar consultas médicas pelos médicos e paciente. 
