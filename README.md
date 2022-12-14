@@ -55,3 +55,11 @@ Os requisitos do sistema referem a um conjunto de funções que os utilizadores 
 -	<b>Log do sistema:</b> O sistema registará todas as alterações que foram feitas no sistema e o administrador deverá ver essas informações quando necessário.  
 -	<b>Ver informações através de dashboard:</b> O sistema deverá permitir que os diretores dos centros nacionais, municipais e locais verem informações importantes e de alto nível através de um dashboard disponibilizado através de gráficos.  
 -	<b>Fazer backup e restauro dos dados:</b> O sistema deverá permitir que sejam feitos o backup e o restauro dos dados.  
+
+
+## Setup
+
+- Server
+npm i -g @adonisjs/cli
+adonis migration:run
+adonis key:generate
