@@ -62,7 +62,7 @@ Os requisitos do sistema referem a um conjunto de funções que os utilizadores 
 - Server
 
 -- Instalar adonisjs: <b>npm i -g @adonisjs/cli</b></br>
--- Gerar chave da aplicação adonisjs: <b>adonis key:generate</b> (será guardado a chave APP_KEY no ficheiro .env)</br></br>
+-- Gerar chave da aplicação adonisjs: <b>adonis key:generate</b> (será guardado a chave APP_KEY no ficheiro .env)</br>
 -- Criar uma base de dados e inserir o nome deste no .env assim comos o username e a password</br>
 -- Instalar os modulos: <b>npm install</b></br>
 -- Executar as migrações para criar a base de dados: <b>node ace migration:run</b></br>
